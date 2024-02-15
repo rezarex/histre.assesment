@@ -1,0 +1,21 @@
+.container{
+    padding: 20px;
+    display: flex;   
+}
+
+.slide img{
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+    
+}
+
+.slide{
+    display: flex;
+    margin-top: 400px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 5px solid red; */
+    /* white-space: nowrap; */
+}
